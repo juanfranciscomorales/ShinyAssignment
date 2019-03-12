@@ -1,0 +1,12 @@
+name: ShinyAssignment
+title: ShinyAssignment
+username:
+account: juanfranciscomorales
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 784590
+bundleId: 1934242
+url: https://juanfranciscomorales.shinyapps.io/ShinyAssignment/
+when: 1552413741.35994
+asMultiple: FALSE
+asStatic: FALSE
